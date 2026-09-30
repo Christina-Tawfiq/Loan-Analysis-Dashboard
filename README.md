@@ -4,6 +4,12 @@
 
 **Data Analytics candidate with an engineering background, developing practical skills in Excel, Power Query, Power Pivot, DAX, data analysis, and business-focused dashboard development.**
 
+## 📂 Project Files
+
+- [📁 Raw Data](./Raw-Data)
+- [📊 Dashboard](./Dashboard)
+- [📊 View / Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1sHLKO-_CaS0pPYRgTyCWQnsXxlv3LhtO/edit?usp=sharing&ouid=104296379546654231541&rtpof=true&sd=true)
+  
 ## 📌 Project Overview
 
 This project analyzes loan application data to understand loan activity, approval patterns, loan amounts, branch and product performance, officer efficiency, and processing time.

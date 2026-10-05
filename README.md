@@ -7,8 +7,9 @@
 ## 📂 Project Files
 
 - [📁 Raw Data](./Raw-Data)
-- [📊 Dashboard](./Dashboard)
+- [📊 Screenshots](./Screenshots)
 - [📊 View / Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1sHLKO-_CaS0pPYRgTyCWQnsXxlv3LhtO/edit?usp=sharing&ouid=104296379546654231541&rtpof=true&sd=true)
+- [📊 Analyzed-Data](./Analyzed-Data) 
   
 ## 📌 Project Overview
 
